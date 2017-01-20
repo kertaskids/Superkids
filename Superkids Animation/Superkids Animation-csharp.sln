@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E9921095-3D62-EDF6-38BE-AA4DDA8925E2}") = "Superkids Animation", "Assembly-CSharp-vs.csproj", "{6697EA3D-1F30-1143-8F8D-DE7B5CFF714E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6697EA3D-1F30-1143-8F8D-DE7B5CFF714E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6697EA3D-1F30-1143-8F8D-DE7B5CFF714E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6697EA3D-1F30-1143-8F8D-DE7B5CFF714E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6697EA3D-1F30-1143-8F8D-DE7B5CFF714E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+											GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
